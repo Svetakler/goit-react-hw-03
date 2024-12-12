@@ -1,0 +1,19 @@
+.container {
+  margin-left: 20px;
+}
+
+.wrapper {
+  width: 200px;
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.input {
+  width: 430px;
+  padding: 5px;
+  margin-top: 5px;
+}
